@@ -1,0 +1,5 @@
+print("welcome to python")
+print()
+name=("what is your name ? " \n)
+id=("what is your id no ? " \n )
+id_len=(len(id))
