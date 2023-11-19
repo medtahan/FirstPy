@@ -2,8 +2,9 @@
 print("welcome to python")
 print()
 #طلب الاسم
-name=("what is your name ? " \n)
+name=input("what is your name ? \n")
 #طلب الرقم القومي
-id=("what is your id no ? " \n )
+id=input("what is your id no ? \n" )
 #عدد ارقام الرقم القومي
 id_len=(len(id))
+print(id_len)
